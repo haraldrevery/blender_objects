@@ -1,4 +1,4 @@
-According to https://www.blender.org/lab/mcp-server/, do you have access to blender and make models and animations?
+According to https://www.blender.org/lab/mcp-server/, you have access to blender and make models and animations?
 
 ---
 
